@@ -52,3 +52,5 @@ group :development do
   # gem "spring"
   gem "faker", "~> 2.19"
 end
+
+gem "bullet", "~> 7.0", :group => :development
